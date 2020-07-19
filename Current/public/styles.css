@@ -1,0 +1,131 @@
+body
+{
+  margin: 0;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 300;
+  color: black;
+  background: #E6E6FA;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+h5{
+  text-align: center;
+}
+
+.green-section {
+  background: #7c55d6;
+}
+
+.white-sec {
+  background: #7c55d6;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.cont
+{
+  width: 100%;
+  margin: 0 auto;
+  background: white;
+}
+
+.container-cards {
+  width: 90%;
+  margin: auto;
+}
+
+header {
+  background: white;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.Logo {
+  float: left;
+  padding: 10px 0;
+}
+
+.nav-item {
+  
+  margin-right: 10px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.eldercards {
+  padding-top: 50px;
+}
+.elderbutton {
+  text-align: center;
+  padding-top: 20px;
+}
+
+#togEld {
+  display: none;
+}
+
+.card {
+  margin-left: auto;
+  margin-right: auto;
+  min-height: 100%;
+
+}
+
+.careimg {
+  width: 50%;
+  height: 50%;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+
+
+
+
+
+/* button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 80%;
+}
+
+button:hover {
+  opacity: 0.8;
+} */
+
+
+
+
+
+
+
+
